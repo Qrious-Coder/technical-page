@@ -10,7 +10,6 @@
 }
 
 *{
-  color: var(--text-color);
   font-family: 'Open Sans', sans-serif;
   line-height: 2em;
   margin-top: 0;
@@ -19,6 +18,7 @@
 
 body {
   background-color: var(--bg-color); 
+  color: var(--text-color);
 }
 
 h3{
@@ -41,7 +41,7 @@ font-size: 1.5rem;
 .page-title {
   font-weight: bolder; 
   background-color: transparent;
-  color: #50C878;
+  color: #c5e384;
 }
 
 #main-doc{
@@ -101,6 +101,7 @@ footer{
   text-align: left;
   margin-left: 0px !important;
   padding-left: 5px !important;
+  color: #838996;
 }
 
 .footer-link{
